@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rugby Ball
+* source:	https://sketchfab.com/3d-models/rugby-ball-196caf120c9a49159ad1b877c8d595cd
+* author:	3dhdscan (https://sketchfab.com/3dhdscan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rugby Ball" (https://sketchfab.com/3d-models/rugby-ball-196caf120c9a49159ad1b877c8d595cd) by 3dhdscan (https://sketchfab.com/3dhdscan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

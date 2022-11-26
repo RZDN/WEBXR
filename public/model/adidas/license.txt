@@ -1,0 +1,11 @@
+Model Information:
+* title:	ADIDAS PREDATOR FUTSAL
+* source:	https://sketchfab.com/3d-models/adidas-predator-futsal-9e265484846c4f00ab0575c7664462e4
+* author:	les83machines (https://sketchfab.com/les83machines)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ADIDAS PREDATOR FUTSAL" (https://sketchfab.com/3d-models/adidas-predator-futsal-9e265484846c4f00ab0575c7664462e4) by les83machines (https://sketchfab.com/les83machines) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
